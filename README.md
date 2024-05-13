@@ -1,7 +1,7 @@
 # Medical_Data_Extraction
 
 Medical data extraction is an exciting project! 
-As the name suggests, useful data is extracted from medical data pdfs. In the guided project, two types of pdfs are used:
+As the name suggests, useful data is extracted from medical data pdfs. In the guided project (by codebasics.io), two types of pdfs are used:
 
 1 - Prescription 
 
